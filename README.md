@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Almaz** — an IOs/.Net developer and a cryptocurrency enthusiast 🚀.
+I’m **Almaz** — an iOS/.Net developer and a cryptocurrency enthusiast 🚀.
 
 I’m passionate about everything related to **cryptocurrency** — from **trading** to **blockchain technologies** and **decentralized finance (DeFi)**.
 
