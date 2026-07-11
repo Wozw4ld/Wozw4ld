@@ -22,38 +22,6 @@ public sealed class Almaz : Developer
 }
 ```
 
-## 🛠 Stack
-
-**Backend**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%206--8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Swift](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
-**Data & Messaging**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR%20%2F%20WebSocket-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-## ⚡ What I actually do
-
-- 🏛 Backend-сервисы на **ASP.NET Core** для гос. сектора — REST API, Kafka, Redis, Clean Architecture
-- 📈 Строил платформу **копитрейдинга** в реальном времени: WebSocket, hot-wallets, синхронные ордера
-- 📱 Полный цикл мобильной разработки: от **SwiftUI** до публикации в App Store
-- 🧵 Люблю `async/await`, TPL и код, который не падает в проде (обычно)
 
 ## 📊 Stats
 
