@@ -3,7 +3,6 @@
 </p>
 
 <h3 align="center">Almaz Saparbaev — Full Stack .NET Developer</h3>
-<p align="center">Bishkek, Kyrgyzstan 🇰🇬</p>
 
 ```csharp
 public sealed class Almaz : Developer
